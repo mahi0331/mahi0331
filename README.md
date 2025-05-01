@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Mahanth K S<br>🎓 I'm a 3rd-year Computer Science engineering student passionate about building impactful tech solutions.<br>💼 Currently working as a Project Intern at HPE (Hewlett Packard Enterprise).<br>🚀 Exploring AI-powered SaaS tools, full-stack web development, and DevOps practices.<br>💡 Interests: AI/ML, Next.js, React.js, MySQL, DevOps, and open-source contributions.<br>👨‍💻 Recent Projects:<br><br>🔹 EasyDeck – B2B AI SaaS web tool for auto-generating technical decks<br><br>🔹 Amrit Yatra – A GIS-based water management app<br><br>🔹 Vidya Saathi – College resource chatbot
-
+👋 Hi there, I'm Mahanth K S<br>🎓 I'm a 3rd-year Computer Science engineering student passionate about building impactful tech solutions.<br>💼 Currently working as a Project Intern at HPE (Hewlett Packard Enterprise).<br>🚀 Exploring AI-powered SaaS tools, full-stack web development, and DevOps practices.<br>💡 Interests: AI/ML, Next.js, React.js, MySQL, DevOps, and open-source contributions.<br>👨‍💻 Recent Projects:<br><br>🔹 EasyDeck – B2B AI SaaS web tool for auto-generating technical decks<br><br>🔹 Amrit Yatra – A GIS-based water management app<br><br>🔹 Billio - SuperMarket Billing System<br><br>🔹 Vidya Saathi – College resource chatbot<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mahanth-k-s-73b696254/)) 
