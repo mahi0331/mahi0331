@@ -1,6 +1,10 @@
-### <p align="center">Hi 👋, I'm Mahanth</p>
+<h2 align="center">Hi 👋, I'm Mahanth</h2>
+
 ---
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/257db3dd-38f5-4508-842f-0b55834816e6)
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/5f754d0e-8994-4497-9d69-a136b9f1caff)
+
+
 ---
 
 🎓 I'm a 3rd-year Computer Science engineering student passionate about building impactful tech solutions.<br>💼 Currently working as a Project Intern at HPE (Hewlett Packard Enterprise).<br>🚀 Exploring AI-powered SaaS tools, full-stack web development, and DevOps practices.<br>💡 Interests: AI/ML, Next.js, React.js, MySQL, DevOps, and open-source contributions.<br>👨‍💻 Recent Projects:<br><br>🔹 EasyDeck – B2B AI SaaS web tool for auto-generating technical decks<br><br>🔹 Amrit Yatra – A GIS-based water management app<br><br>🔹 Billio - SuperMarket Billing System<br><br>🔹 Vidya Saathi – College resource chatbot<br>
