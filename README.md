@@ -28,17 +28,6 @@ With a solid foundation in **Data Structures**, **System Design**, and **Machine
 
 ---
 
-## 🧠 Technical Skills
-
-- **Languages:** C, C++, Python, HTML, CSS, SQL, TypeScript  
-- **Core CS:** DSA, OOPS, OS, Computer Networks, ML  
-- **Tools & Platforms:** Git, GitHub, Docker, Firebase, Figma, Razorpay  
-- **Frameworks:** React.js, Flask, Express.js, Tailwind CSS  
-- **Databases:** MySQL, SQLite, MongoDB, PostgreSQL  
-- **Others:** REST APIs, JWT, GCP, FastAPI, Next.js
-
----
-
 ## 🚀 Projects
 
 ### 🔐 SecureConnect  
