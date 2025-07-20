@@ -78,8 +78,6 @@ Central hub for semester-wise **notes, papers, and videos** for engineering stud
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mahi0331&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=mahi0331&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi0331&theme=dark&hide_border=false&layout=compact)
 
 ---
