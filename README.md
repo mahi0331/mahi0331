@@ -2,7 +2,6 @@
   <strong><h2>💫 Hi There</h2></strong>
 </p>
 
----
 Hi, I'm *Mahanth K S* — a passionate and detail-driven Computer Science Engineer from Mysuru, India 🇮🇳. I specialize in **Software Development**, **Cybersecurity**, and **AI-powered SaaS Platforms**. I enjoy building scalable, secure, and user-focused systems that solve real-world problems.
 
 With a solid foundation in **Data Structures**, **System Design**, and **Machine Learning**, I love bringing ideas to life — from civic tech tools to enterprise-grade solutions.
