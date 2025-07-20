@@ -29,6 +29,14 @@ With a solid foundation in **Data Structures**, **System Design**, and **Machine
 ---
 
 ## 🚀 Projects
+### 📊 Deck Genie  
+AI-powered **slide deck generator** for technical and business users. Integrates OpenAI to generate dynamic presentation content.
+
+### 💧 AMRIT YATRA  
+Water supply management app with **GIS tracking**, complaint handling, and SPID-based house IDs — built for local governance.
+
+### 💻 Supermarket Billing System  
+Full-stack billing app using React & Flask. Supports GST, Razorpay payments, and clean modular architecture.
 
 ### 🔐 SecureConnect  
 Educational **VPN system** using IPSec (StrongSwan) with OTP-based 2FA. Includes CLI tools and optional Flask dashboard.
@@ -39,20 +47,8 @@ Full-stack **coding contest platform** with auto-grading, role-based dashboards,
 ### 💻 VINYAS  
 Enterprise-grade **AI SaaS** for content safety analysis across text, images & documents. Includes SDKs, API keys, and usage analytics.
 
-### 📊 Deck Genie  
-AI-powered **slide deck generator** for technical and business users. Integrates OpenAI to generate dynamic presentation content.
-
-### 💧 AMRIT YATRA  
-Water supply management app with **GIS tracking**, complaint handling, and SPID-based house IDs — built for local governance.
-
-### 💻 Supermarket Billing System  
-Full-stack billing app using React & Flask. Supports GST, Razorpay payments, and clean modular architecture.
-
-### 📚 Study Resources Platform  
+### 📚 Vidya Saathi  
 Central hub for semester-wise **notes, papers, and videos** for engineering students.
-
-### 💻 Vidya Saathi *(WIP)*  
-AI chatbot for college websites using LLMs to answer queries related to academics and campus life.
 
 ---
 
