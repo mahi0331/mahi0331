@@ -5,6 +5,10 @@ Hi, I'm **Mahanth K S** — a passionate and detail-driven Computer Science Engi
 With a solid foundation in **Data Structures**, **System Design**, and **Machine Learning**, I love bringing ideas to life — from civic tech tools to enterprise-grade solutions.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9b771b1-d5a2-4b32-87ae-d07d8aab130c" />
+
+
+---
 
 ## 🎓 Education
 
@@ -19,7 +23,7 @@ With a solid foundation in **Data Structures**, **System Design**, and **Machine
 
 ## 💼 Work Experience
 
-🏢 🏢 **Software Engineering Intern** — ***Hewlett Packard Enterprise*** *(Feb 2025 – July 2025)*
+🏢 **Software Engineering Intern** — ***Hewlett Packard Enterprise*** *(Feb 2025 – July 2025)*
 - Developed an **AI-powered SaaS** for document & presentation automation  
 - Worked on scalable backend APIs and modern frontend UX  
 - Collaborated with cross-functional teams for enterprise deployment  
