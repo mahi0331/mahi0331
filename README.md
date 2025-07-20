@@ -45,7 +45,7 @@ Educational **VPN system** using IPSec (StrongSwan) with OTP-based 2FA. Includes
 ### 💻 CodeArena  
 Full-stack **coding contest platform** with auto-grading, role-based dashboards, and real-time code evaluation using Monaco Editor.
 
-### 🧠 VINYAS  
+### 💻 VINYAS  
 Enterprise-grade **AI SaaS** for content safety analysis across text, images & documents. Includes SDKs, API keys, and usage analytics.
 
 ### 📊 Deck Genie  
@@ -54,21 +54,21 @@ AI-powered **slide deck generator** for technical and business users. Integrates
 ### 💧 AMRIT YATRA  
 Water supply management app with **GIS tracking**, complaint handling, and SPID-based house IDs — built for local governance.
 
-### 🧾 Supermarket Billing System  
+### 💻 Supermarket Billing System  
 Full-stack billing app using React & Flask. Supports GST, Razorpay payments, and clean modular architecture.
 
 ### 📚 Study Resources Platform  
 Central hub for semester-wise **notes, papers, and videos** for engineering students.
 
-### 🤖 Vidya Saathi *(WIP)*  
+### 💻 Vidya Saathi *(WIP)*  
 AI chatbot for college websites using LLMs to answer queries related to academics and campus life.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🏅 **Smart India Hackathon Finalist** – National Level  
-- 🥈 **PALS InnoWAH!** Pre-Finalist – Feb 2025  
+-  **Smart India Hackathon Finalist** – National Level  
+-  **PALS InnoWAH!** Pre-Finalist – Feb 2025  
 - 🎤 **Resource Person** – DevOps & DSA Bootcamps  
 - 📘 **Certifications:**
   - Data Visualization – Coursera  
@@ -79,12 +79,7 @@ AI chatbot for college websites using LLMs to answer queries related to academic
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahanth-k-s-73b696254)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/mahi0331)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mahi_mahanth_03)  
-[![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/MahanthKS03)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@MahanthKS-z2y)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahanthks03@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahanth-k-s-73b696254)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/mahi0331)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mahi_mahanth_03)  [![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/MahanthKS03)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@MahanthKS-z2y)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahanthks03@gmail.com)  
 
 ---
 
