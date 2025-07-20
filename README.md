@@ -19,7 +19,7 @@ With a solid foundation in **Data Structures**, **System Design**, and **Machine
 
 ## 💼 Work Experience
 
-🏢 **Software Engineering Intern** — *Hewlett Packard Enterprise (Feb 2025 – July 2025)*  
+🏢 🏢 **Software Engineering Intern** — ![HPE](https://img.shields.io/badge/Hewlett_Packard_Enterprise-00b388?style=flat&logo=Hewlett-Packard&logoColor=white) *(Feb 2025 – July 2025)*
 - Developed an **AI-powered SaaS** for document & presentation automation  
 - Worked on scalable backend APIs and modern frontend UX  
 - Collaborated with cross-functional teams for enterprise deployment  
