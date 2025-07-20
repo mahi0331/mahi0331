@@ -5,9 +5,7 @@ Hi, I'm **Mahanth K S** — a passionate and detail-driven Computer Science Engi
 With a solid foundation in **Data Structures**, **System Design**, and **Machine Learning**, I love bringing ideas to life — from civic tech tools to enterprise-grade solutions.
 
 ---
-[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9b771b1-d5a2-4b32-87ae-d07d8aab130c" />
-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw1X84rgqdAYYcOOcclQ3HH5&ust=1753109382684000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDI68LXy44DFQAAAAAdAAAAABAE)
-
+![user (2)](https://github.com/user-attachments/assets/93ff6325-a0b6-4078-ad14-526b31db823a)
 ---
 
 ## 🎓 Education
