@@ -1,15 +1,120 @@
-# 💫 About Me:
-Hello! I'm Mahanth K S, a driven and detail-oriented Computer Science Engineer from Mysore, India, with a strong focus on Software Development, Cybersecurity, and AI-powered SaaS platforms. I enjoy solving complex problems and building full-stack systems that are scalable, secure, and user-centric.With a solid foundation in Data Structures, Machine Learning, and System Design, I specialize in developing products that combine technical depth with practical usability. My approach blends innovation with precision — whether I'm working on enterprise-grade SaaS solutions or community-focused civic tech tools.<br><br>🎓 Education<br>🎓 B.E. in Computer Science<br>Vidyavardhaka College of Engineering, Mysuru<br>CGPA: 9.37<br><br>Smart India Hackathon Finalist<br><br>Peer tutor and hackathon coordinator<br><br>Resource Person for DevOps and DSA workshops<br><br>💼 Work Experience<br>🏢 Hewlett Packard Enterprise (HPE)<br>Software Engineering Intern | Feb 2025 – July 2025<br><br>Built an AI-powered SaaS platform to automate technical document and presentation creation using NLP and deep learning techniques<br><br>Focused on scalable backend design and frontend UX for enterprise usage<br><br>Worked closely with cross-functional teams to implement real-world AI solutions<br><br>🧠 Technical Skills<br>Languages: C, C++, Python, HTML, CSS, SQL<br><br>Core CS: Data Structures, Algorithms, OOPS, OS, Networks, ML<br><br>Tools: Git, GitHub, Docker, Figma, Firebase, Razorpay<br><br>Frameworks: Flask, React.js, Express.js, Tailwind CSS<br><br>Others: REST APIs, JWT, MongoDB, SQLite, Google Cloud<br><br>🚀 Projects<br>🔐 SecureConnect<br>Educational VPN platform built using IPSec (StrongSwan) and OTP-based authentication for secure tunneling. Offers 2FA, user management CLI, and a Flask-based monitoring dashboard.<br><br>💻 CodeArena<br>Full-stack coding contest platform with auto-grading, role-based dashboards (Student/Host), Monaco code editor, and leaderboard system. Inspired by Codeforces/HackerRank.<br><br>💻 VINYAS<br>AI SaaS platform for content safety analysis across text, images, and documents. Offers SDKs, REST APIs, usage analytics, and real-time moderation with NLP and OCR integration.<br><br>💻 Deck Genie<br>AI-based slide deck generator for Sales, Technical, and Investor use cases. Leverages OpenAI’s language model and a tailored UI for generating dynamic business presentations.<br><br>💧 AMRIT YATRA<br>Water supply management platform for rural areas. Enables complaint booking, GIS tracking, online payments, and SPID-based household identification for civic water departments.<br><br>🧾 Supermarket Billing System<br>Full-stack billing web app with React.js + Flask. Supports GST-based itemized billing, invoice generation, and Razorpay integration for real-time payments. Built with a clean modular structure.<br><br>📚 Study Resources Platform<br>A learning hub offering summarized notes, question papers, and video lectures for college students. Categorized by semester and subject for quick navigation.<br><br>🤖 Vidya Saathi (In Progress)<br>AI-powered college chatbot that answers FAQs related to academics, departments, and campus resources. Built using LLMs for intelligent context understanding.<br><br>🏆 Achievements & Leadership<br>🏅 Smart India Hackathon Finalist (National Level)<br><br>🎤 Resource Person – DevOps & DSA Bootcamps<br><br>🧠 Peer Tutor – System Software & Compiler Design<br><br>⚙️ Coordinator – Hackathons and Department Technical Events<br><br>🥈 PALS InnoWAH! Pre-Finalist – Feb 2025<br><br>📜 Certifications<br>✅ Data Visualization Specialization – Coursera<br><br>✅ Data Analytics Foundations – Google Cloud Platform<br><br>✅ Cybersecurity & Privacy – NPTEL (Ongoing)<br><br>
+# 💫 About Me
 
+Hi, I'm **Mahanth K S** — a passionate and detail-driven Computer Science Engineer from Mysuru, India 🇮🇳. I specialize in **Software Development**, **Cybersecurity**, and **AI-powered SaaS Platforms**. I enjoy building scalable, secure, and user-focused systems that solve real-world problems.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mahi_mahanth_03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahi_mahanth_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahanth-k-s-73b696254) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MahanthKS03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MahanthKS-z2y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahanthks03@gmail.com) 
+With a solid foundation in **Data Structures**, **System Design**, and **Machine Learning**, I love bringing ideas to life — from civic tech tools to enterprise-grade solutions.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahi0331&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahi0331&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi0331&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎓 Education
+
+🎓 **B.E. in Computer Science**  
+*Vidyavardhaka College of Engineering, Mysuru*  
+**CGPA:** 9.37  
+- 🏅 Smart India Hackathon Finalist  
+- 🧑‍🏫 Peer Tutor & Resource Person (DSA, DevOps)  
+- 🛠️ Hackathon & Workshop Coordinator  
+
+---
+
+## 💼 Work Experience
+
+🏢 **Software Engineering Intern** — *Hewlett Packard Enterprise (Feb 2025 – July 2025)*  
+- Developed an **AI-powered SaaS** for document & presentation automation  
+- Worked on scalable backend APIs and modern frontend UX  
+- Collaborated with cross-functional teams for enterprise deployment  
+
+---
+
+## 🧠 Technical Skills
+
+- **Languages:** C, C++, Python, HTML, CSS, SQL, TypeScript  
+- **Core CS:** DSA, OOPS, OS, Computer Networks, ML  
+- **Tools & Platforms:** Git, GitHub, Docker, Firebase, Figma, Razorpay  
+- **Frameworks:** React.js, Flask, Express.js, Tailwind CSS  
+- **Databases:** MySQL, SQLite, MongoDB, PostgreSQL  
+- **Others:** REST APIs, JWT, GCP, FastAPI, Next.js
+
+---
+
+## 🚀 Projects
+
+### 🔐 SecureConnect  
+Educational **VPN system** using IPSec (StrongSwan) with OTP-based 2FA. Includes CLI tools and optional Flask dashboard.
+
+### 💻 CodeArena  
+Full-stack **coding contest platform** with auto-grading, role-based dashboards, and real-time code evaluation using Monaco Editor.
+
+### 🧠 VINYAS  
+Enterprise-grade **AI SaaS** for content safety analysis across text, images & documents. Includes SDKs, API keys, and usage analytics.
+
+### 📊 Deck Genie  
+AI-powered **slide deck generator** for technical and business users. Integrates OpenAI to generate dynamic presentation content.
+
+### 💧 AMRIT YATRA  
+Water supply management app with **GIS tracking**, complaint handling, and SPID-based house IDs — built for local governance.
+
+### 🧾 Supermarket Billing System  
+Full-stack billing app using React & Flask. Supports GST, Razorpay payments, and clean modular architecture.
+
+### 📚 Study Resources Platform  
+Central hub for semester-wise **notes, papers, and videos** for engineering students.
+
+### 🤖 Vidya Saathi *(WIP)*  
+AI chatbot for college websites using LLMs to answer queries related to academics and campus life.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🏅 **Smart India Hackathon Finalist** – National Level  
+- 🥈 **PALS InnoWAH!** Pre-Finalist – Feb 2025  
+- 🎤 **Resource Person** – DevOps & DSA Bootcamps  
+- 📘 **Certifications:**
+  - Data Visualization – Coursera  
+  - Data Analytics – Google Cloud Platform  
+  - Cybersecurity & Privacy – NPTEL (Ongoing)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahanth-k-s-73b696254)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/mahi0331)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mahi_mahanth_03)  
+[![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/MahanthKS03)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@MahanthKS-z2y)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahanthks03@gmail.com)  
+
+---
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi)  
+![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mahi0331&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=mahi0331&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi0331&theme=dark&hide_border=false&layout=compact)
+
+---
+
+<!-- Powered by GPRM: https://gprm.itsvg.in -->
